@@ -5,6 +5,7 @@
 # Temática
 
 El objetivo es proporcionar un espacio personal digital sin las limitaciones del papel, donde el usuario pueda registrar sus pensamientos con texto, fotos, audio o video en un espacio multimedia dinámico.
+Un diario digital básicamente.
 
 # ¿A quién está dirigido?
 
